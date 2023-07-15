@@ -1,0 +1,25 @@
+.img-sort {
+  width: 50%;
+  display: flex;
+}
+
+.image-container {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  font-family: 'roboto';
+  color: white;
+}
+
+.image {
+  height: 140px;
+  width: 200px;
+}
+
+.img-heading {
+  font-size: 20px;
+}
+
+.img-para {
+  margin-top: 0px;
+}

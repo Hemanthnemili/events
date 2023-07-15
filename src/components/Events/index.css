@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+}
+
+.event-container {
+  background-color: #64748b;
+  height: 100vh;
+  width: 60%;
+}
+
+.heading {
+  color: black;
+  font-size: 10px;
+}
+
+.img-list {
+  display: flex;
+  flex-wrap: wrap;
+}
